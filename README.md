@@ -9,8 +9,7 @@
     - SQL, PostgreSQL, MongoDB
     - Cypress(A end-to-end testing tool)
     - Docker, Kubernetes, Azure, Git, JIRA
--Exploring GraphQL, Kafka
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine Learning, GraphQL, Kafka
 - 📫 How to reach me ping me https://www.linkedin.com/in/kumaresh12
 
 <!---
